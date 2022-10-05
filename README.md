@@ -1,6 +1,6 @@
 # jpa02-HansonYu23
 
-Repo: https://ucsb-cs156-f22/jpa02-HansonYu23
+Repo: https://github.com/ucsb-cs156-f22/jpa02-HansonYu23
 
 On Heroku: https://jpa02-hansonyu.herokuapp.com/
 
